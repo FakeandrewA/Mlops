@@ -1,0 +1,22 @@
+artifact_path: file:///d:/Current Projects/MLops/02-experiment-tracking/mlruns/6/models/m-fab2d944009341e49528ad746ad90622/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.11.8
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.19.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.1.1
+model_id: m-fab2d944009341e49528ad746ad90622
+model_size_bytes: 743665
+model_uuid: m-fab2d944009341e49528ad746ad90622
+prompts: null
+run_id: 9ae9e827dc7844a082a60551fba7d3b9
+utc_time_created: '2025-07-14 08:55:04.265165'
