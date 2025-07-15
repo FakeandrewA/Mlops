@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Current%20Projects/MLops/02-experiment-tracking/running-mlflow-examples/mlruns/424985829155740947/fe684e621f79484987d52f85c1a9466a/artifacts
+end_time: 1752570623930
+entry_point_name: ''
+experiment_id: '424985829155740947'
+lifecycle_stage: active
+run_id: fe684e621f79484987d52f85c1a9466a
+run_name: debonair-smelt-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752570614832
+status: 3
+tags: []
+user_id: andre
